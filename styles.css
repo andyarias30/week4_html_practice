@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    text-align: center;
+    font-family: fantasy;
+   font-style: normal;
+   background-color:rgb(246, 87, 7);
+}
+
+box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#basketball{
+    display: flex;
+    width: 40%;
+    height: 50%;
+}
+
+#details{
+    display: flex;
+    text-align: center;
+}
